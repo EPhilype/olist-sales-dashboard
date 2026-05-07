@@ -53,10 +53,10 @@ O objetivo do projeto foi analisar o desempenho de vendas, faturamento, clientes
 # 📸 Dashboard
 
 ## Dashboard Principal
-(Adicionar imagem aqui)
+![Dashboard](images/dashboard.png)
 
 ## Dashboard Interativo
-(Adicionar imagem aqui)
+![Dashboard Interativo](images/dashboard-filtrado.png)
 
 
 
