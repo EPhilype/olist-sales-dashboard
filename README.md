@@ -19,7 +19,7 @@ O objetivo do projeto foi analisar o desempenho de vendas, faturamento, clientes
  📁 Estrutura do Projeto
 
 - `tratamento.py` → tratamento e transformação dos dados
-- `dados_tratados.csv` → base de dados final utilizada no Power BI
+- `> O arquivo `dados_tratados.csv` não foi incluído no repositório devido ao tamanho do dataset.
 - `dashboard.pbix` → dashboard desenvolvido no Power BI
 - `images/` → imagens do dashboard
 
